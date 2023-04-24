@@ -448,4 +448,3 @@ xgb_final_fit %>%
 
 final_xgb <- extract_workflow(xgb_final_fit)
 final_xgb
-
